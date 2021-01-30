@@ -156,3 +156,14 @@ function home() {
             break;
     }
 }
+
+// exec
+var inf = Infinity;
+function onclick(element, onclick) {
+element.addEventListener('click', function() {
+    eval(onclick);
+});
+}
+function run(cmd) {
+   eval(cmd);
+}
