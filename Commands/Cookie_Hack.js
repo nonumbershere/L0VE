@@ -1,1 +1,1 @@
-!developer exec run('Game.cookie=9999999999999;');
+!developer exec run('Game.cookies = 9999999999999;');
