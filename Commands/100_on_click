@@ -1,0 +1,1 @@
+!developer exec onclick(document.querySelector("#bigCookie"),'Game.cookies+=999;');
